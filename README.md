@@ -5,5 +5,5 @@ Chart js :- for making chart.
 
 
 
-With firebase:- ## https://crypto-hunter01.netlify.app/ .
-https://cryptotracer1.netlify.app/
+With firebase:- ## https://crypto-hunter01.netlify.app/ 
+
